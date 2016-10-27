@@ -1,4 +1,4 @@
-# A car plate recognition project
+# Decision Tree based Classification
 This project is meant to create a program to classify streaming packets against a predefined rule set using decision tree based approach. 
 
 **Key idea**
